@@ -1,0 +1,112 @@
+We need rework on partner location search
+1. There should be an option included in match preferences first:
+
+Near me | Same country |Beyond borders
+
+2. Then we should have a region based, most popular country list where bangladeshis live like this:
+
+---------------------
+
+Africa
+	•	Egypt
+	•	Kenya
+	•	Libya
+	•	Mauritius
+	•	Rwanda
+	•	South Africa
+
+Australia & Oceania
+	•	Australia
+	•	Fiji
+	•	New Zealand
+
+Bangladesh & South Asia
+	•	Bangladesh
+	•	Bhutan
+	•	India
+	•	Maldives
+	•	Nepal
+	•	Pakistan
+	•	Sri Lanka
+
+East & Southeast Asia
+	•	Brunei
+	•	China
+	•	Hong Kong
+	•	Indonesia
+	•	Japan
+	•	Malaysia
+	•	Singapore
+	•	South Korea
+	•	Thailand
+	•	Vietnam
+
+Middle East / Gulf
+	•	Bahrain
+	•	Jordan
+	•	Kuwait
+	•	Lebanon
+	•	Oman
+	•	Qatar
+	•	Saudi Arabia
+	•	United Arab Emirates
+
+North America
+	•	Canada
+	•	United States of America
+
+UK & Europe
+	•	Austria
+	•	Belgium
+	•	Denmark
+	•	Finland
+	•	France
+	•	Germany
+	•	Greece
+	•	Ireland
+	•	Italy
+	•	Netherlands
+	•	Norway
+	•	Portugal
+	•	Spain
+	•	Sweden
+	•	Switzerland
+	•	United Kingdom
+
+--------------------------------------
+
+Then we have an option called
+
+OTHER which is a text box. They can enter the country that is not listed here.  The back end of the system must have all ISO 195 countries please.
+
+Then they will have a city list they can type, and we will auto correct if the spelling is wrong.
+
+-----------------------------------------
+
+[05:55, 16/10/2025] +61 423 277 591: We have 4 tiers:
+
+Alaap (আলাপ) — A simple beginning — the first step toward real connection. Tk. 999/-
+
+Jatra (যাত্রা) — An onward journey — moving with clarity, purpose, and growing intent. Tk. 2,999/-
+
+Aalok (আলোক) — A distinguished presence — refined, confident, and guided by light that sets you apart.
+Tk. 5,999/-
+
+Obhijaat (অভিজাত) — A rare belonging — the signature circle of invitation-only access, reserved for those who embody timeless prestige, quiet distinction, and enduring trust.
+Tk. 14,999/-
+[06:01, 16/10/2025] +61 423 277 591: At paid TIER 1: Alaap we will include 3 ICEBREAKER template as follows:
+
+1.	“Hello — your profile caught my attention. What does a meaningful match mean to you?”
+	2.	“Hello — there’s something genuine about your profile. Would you like to see if our thoughts align?”
+	3.	“Hello — you seem sincere and grounded. What draws you most toward someone you’d want to know better?”
+
+
+How the Icebreaker Flow Works:
+
+	1.	Alaap users can send up to 3 icebreakers/month (one per day max).
+	2.	Recipients (in any tier) see:
+	•	the sender’s name, photo, and icebreaker text,
+	•	and a “Reply” button that says:
+“Unlock conversation — available from Jatra tier onward.”
+	3.	If the recipient is also Alaap, they can’t reply; they get a prompt to upgrade.
+	4.	If the recipient is Jatra or higher, they can reply freely — the Alaap sender will receive the message but can’t open or respond until they upgrade.

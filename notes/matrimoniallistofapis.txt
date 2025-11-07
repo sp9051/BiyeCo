@@ -1,0 +1,13 @@
+/login
+/checkuseridexist
+/sendotp
+/register
+
+
+
+/listoflanguages
+/listofeducations
+/listofstudyfields
+/listofprofession
+/listofreligion
+/listofhobbies

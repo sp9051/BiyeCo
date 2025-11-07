@@ -1,0 +1,5 @@
+*two factor auth in 2nd phase,
+*id verification in 2nd phase by using third party companies,
+*word abusing blocker feature in messeging needs to be added in 1st phase,
+*signin with google, signin with appleid,(2nd phase) signin with email in 1st phase(1st phase)
+*vendors user needs to be added in 1st phase

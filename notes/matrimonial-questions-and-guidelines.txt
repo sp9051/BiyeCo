@@ -1,0 +1,60 @@
+for gpt:
+* language selection will be after splash screen on the top right(dropdown with a global language icon)
+* what are you looking for and who are you creating the profile for section will be shown in the same screen
+*subscription details:
+Tier 1 — Essential ■799 / month · ■2,099 / 3 months · ■6,999 / 12 months Feature Details Likes / day 30 New chat starts / day 3 (only after mutual like) Open chat cap 7 (closing a chat locks the slot for 12 hours to prevent churn) Filters Basic: age, city, marital status, profession Who liked me Teaser: up to 3 profiles/day Read receipts No Boosts / month 0 Super Likes / month 0 Privacy & Safety Photo blur toggle; selfie + phone verification required 
+
+Tier 2 — Commitment ■1,499 / month · ■3,999 / 3 months · ■13,999 / 12 months Feature Details Likes / day Unlimited New chat starts / day 10 Open chat cap 30 Filters Advanced: education, profession, diaspora, religiosity, lifestyle Who liked me Full list Read receipts Yes Boosts / month 1 Super Likes / month 10 Guardian preview Optional read-only family preview room Anti-spam Respect Mode throttles new-chat starts if reply rate is poor
+
+Tier 3 — Elite ■3,499 / month · ■8,999 / 3 months · ■29,999 / 12 months Feature Details Likes / day Unlimited New chat starts / day Unlimited Open chat cap Unlimited (practical cap handled by UX pagination) Filters Extended: languages, relocation openness, family plans, deeper lifestyle Visibility Priority search ranking + Priority inbox placement Privacy Incognito Mode (only those you like can see you) Who liked me Full list, ranked by relevance Boosts / month 3 Super Likes / month 40 Polish & Curation AI profile polish tips; Monthly ‘Top Matches’ digest (suggested 20) Refund safeguard (T2 & T3): If no quality conversation (≥3 replies in a thread) within 30 days, we auto-extend by 14 days. 
+
+Anti-gaming: Chat slot closes lock for 12 hours after closing; tokens/boosts capped monthly to preserve value
+
+*otp will be verified through email(an otp section will be there)
+*in home/discovery recommended,matches in your city,recently view and etc will be there.
+*there will be an option to report/block someone where the user is showing.
+*a screen for vendors will be there in the footer menu(design i snot needed for now)
+
+1.
+a)
+color code: #53377A
+logo: have
+font: use font that should match with it(calibri or something else)
+b)
+it should be traditional like shaadi.com and modern like tinder as well
+c)
+it should feel like premium & classy
+
+2.
+a)
+it should be separeted prompt, first write for mobile app then i will ask for the web app
+
+3.
+a)
+all the screens
+all the screens at once
+
+4.
+a)
+want light & dark mode versions
+want illustrations/icons but should be placed where its needed
+yes, the premium plans, verification badges, and safety controls be highlighted visually (with badges, gold highlights, etc.)
+
+
+
+my question:
+*basic details may be shown after what are you looking for/who are you creating profile for screen and for someone else his fullname,gender & dob(these two may not needed) will be asked with the contact details.(if not how it will show)
+*who are you creating profile for should not be shown in dropdown(it may outdated design).
+*
+
+
+
+points need to be updated in the design manually:
+*relationship input will be asked for selecting someone else
+*contact details email box mesage need to be changed with we will send an otp to this email
+*marital status needs to be added in family details section
+*children with option yes/no/not applicable need to be added and if yes then the number of children will be shown and after entered these four option will be asked in a dropdown:
+	•	Living with me
+	•	Living with the other parent
+	•	Shared custody
+	•	Other arrangement

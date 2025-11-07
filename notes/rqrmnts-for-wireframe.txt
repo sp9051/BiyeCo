@@ -1,0 +1,11 @@
+b2: income,community, skin tone should be removed, 
+b2: in religion there would be 4-5 options and others,
+b3: children dropdown added with max 5 no of children,
+b3: remove the family type, family/parents hometown
+a3: username should be added and it can be system generated,
+
+
+note:
+*the sign up time should be user freindly as tinder takes 2minutes and shaadi.com takes 8minutes,
+*the first page should be chooose your language,
+*Who’s creating? (Self / Daughter / Son / Sister / Brother)

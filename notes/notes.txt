@@ -1,0 +1,17 @@
+matrimonial gpt accnt:
+sp9051: tech stack/ ui/ux wireframes
+
+sumontopne05: proposal details explained
+sumontopyne: none
+sumontodgshield: none
+
+
+need to learn:
+cloud native(contains kubernetes, microservices)
+
+backend developement(java,spring boot, node, database 
+management advance, dsa)
+
+authentication/authorization
+
+frontend developement(js core, react, next)

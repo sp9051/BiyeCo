@@ -1,0 +1,137 @@
+--------------------------------------(demographics)
+Ancestral Home(Division)
+	1.	Barishal
+	2.	Chattogram
+	3.	Dhaka
+	4.	Khulna
+	5.	Mymensingh
+	6.	Rajshahi
+	7.	Rangpur
+	8.	Sylhet
+
+
+
+
+
+--------------------------------------(about)
+
+
+Slide: 4 of 8
+
+Share a little about who you are — your personality, interests, values, and what you’re looking forward to in life.
+
+--------------------------------------(demographics)(here in religion field muslim will be first choice)
+
+Slide 5 of 8
+
+
+1.	No Formal Education
+	2.	Primary School
+	4.	Higher Secondary School
+	5.	Diploma / Vocational Training
+	6.	Bachelor’s Degree
+	7.	Master’s Degree
+	8.	Doctorate (PhD / Equivalent)
+
+---------------------------------------(demographics)
+
+Slide 5 of 8 
+
+
+📚 Field of Study Dropdown 
+	•	Arts & Humanities
+	•	Business & Management
+	•	Computer Science & IT
+	•	Engineering
+	•	Law
+	•	Medicine & Health Sciences
+	•	Science
+	•	Social Sciences
+	•	Education
+	•	Design & Architecture
+	•	Other
+
+-------------------------------------(all the profession section, in familydt & demographics & partner pref)
+
+Accountant
+Admin Professional
+Architect
+Artist
+Banker
+Beautician / Makeup Artist
+Business Owner / Entrepreneur
+Chef / Cook / Caterer
+Consultant / Advisor
+Corporate Professional / Executive
+Craftsman / Artisan
+Data / AI / Tech Specialist
+Designer / Creative Professional
+Doctor / Medical Specialist
+Driver / Transport Professional
+Education Administrator
+Electrician / Plumber
+Engineer
+Farmer / Agricultural Worker
+Fashion Professional / Tailor
+Finance Professional
+Freelancer / Self-Employed
+Government Employee / Civil Servant
+Healthcare Professional / Nurse
+Homemaker
+Journalist / Writer
+Lawyer / Legal Professional
+Marketing / Sales Professional
+Mechanic / Technician
+Media / Entertainment Professional
+NGO / Development Worker
+Pharmacist
+Photographer / Videographer
+Psychologist / Therapist
+Researcher / Academic
+Retired
+Security / Service Staff
+Social Worker
+Software / IT Professional
+Student
+Teacher / Lecturer
+Unemployed / Between Roles
+Other (please specify)
+
+----------------------------------------(demographics)
+
+Slide 5 of 8
+
+Religion Dropdown
+	1.	Islam
+	2.	Hinduism
+	3.	Christianity
+	4.	Buddhism
+	5.	Other (please specify)
+	6. Open to all faiths
+
+----------------------------------------(familydt & partner preferences)
+
+Children Status
+	•	No children
+	•	Yes, living with me
+	•	Yes, living with the other parent
+	•	Yes, shared custody
+	•	Yes, independent / grown-up
+
+----------------------------------------(partner preferences)
+
+Living Situation
+	•	Living alone
+	•	Living with parents
+	•	Living with friends / flatmates
+	•	Living with children
+
+-----------------------------------------(lifestyle)
+
+Exercise routine
+
+
+	•	Very active
+	•	Moderately active
+	•	Occasionally active
+	•	Not currently active

@@ -1,0 +1,14 @@
+first one:
+got a project to build a matrimonial mobile app using react native, and node js + express js and i have poor knowledge in node and express, so what should i do to enhance my knowlodge on it very fast
+
+what are the basics and advanced topics for a complex and optimised database designthat can handle more than millions of data insertion or updation at a time
+
+A PostgreSQL schema example for your matrimonial app
+✅ An example of partitioning or bulk insert query
+✅ How to set up Prisma with connection pooling + indexing advice
+please generate
+
+
+
+second one:
+i have got a project to build a matrimonial mobile app frontend and backend using the following tech stack(paste the tech stack previously finalised), now wanna take AI help to create it from wireframe design to deployment & testing

@@ -1,0 +1,7 @@
+**design all the ui for mobile and webapp(an web app will be there for admin panel)
+
+**create all the api flowchart design and everything by following the 2. system design(google docs dgshieldmail)
+
+**learn node js
+
+*then build the app using replit by following the chatgpt conversation named with matrimonial app tech stack
